@@ -1,3 +1,4 @@
 # yd-mgmt
 
-*Deleting unnecessary info from initial version*
+* Forked from https://github.com/BlackrockDigital/startbootstrap-freelancer
+
